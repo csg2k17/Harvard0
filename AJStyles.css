@@ -1,0 +1,18 @@
+body
+	{
+		background-color: black; 
+	}
+		
+h1
+	{
+		color: teal;
+		text-align: center;
+		//text-shadow:;
+	}
+		
+button
+	{
+		color: red;
+		width: 50px;
+	}
+		
